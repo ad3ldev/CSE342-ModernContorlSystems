@@ -1,0 +1,191 @@
+--------------- Control ----------------
+I/O Monitor
+
+--------------- Comments ---------------
+True
+
+----------- Rung 0 Controls ------------
+NOCNOCNOCLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 0 Types -------------
+  0  0  1  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 0 Indexes ------------
+  0  1  2  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 0 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 0 ---------------
+Input 0 comes from th
+e Power Switch. Input
+ 1 comes from the IR 
+sensor. the 0 actuato
+r is connected to  th
+e DC motor driving th
+e belt conveyor.
+
+----------- Rung 1 Controls ------------
+NCCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 1 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 1 Indexes ------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 1 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 1 ---------------
+When the Power Switch
+ is off all actuators
+ are off. 
+
+----------- Rung 2 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 2 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 2 Indexes ------------
+  2  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 2 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 2 ---------------
+stops the conveyor. I
+nput 2 comes from the
+  Infrared reflective
+ sensor attached to t
+he reject solenoid br
+acket. 
+
+----------- Rung 3 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 3 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 3 Indexes ------------
+  2  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 3 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 3 ---------------
+starts the reject sol
+enoid. Actuator 1 is 
+connected to the Reje
+ct solenoid.
+
+----------- Rung 4 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKLAT
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 4 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 4 Indexes ------------
+  3  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 4 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRTHRFIN
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 4 ---------------
+Input 3 comes from th
+e pushbutton to start
+ the system, and actu
+ator 2 is an indicato
+r of the state of the
+ system.
+
+----------- Rung 5 Controls ------------
+NOCLNKLNKLNKLNKLNKLNKLNKLNKUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONUNL
+NONNONNONNONNONNONNONNONNONNON
+
+------------- Rung 5 Types -------------
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0
+
+------------ Rung 5 Indexes ------------
+  4  0  0  0  0  0  0  0  0  2
+  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0
+
+------------- Rung 5 Links -------------
+STATHRTHRTHRTHRTHRTHRTHRTHRBRAFIN
+NONNONNONNONNONNONNONNONNONSTAFIN
+NONNONNONNONNONNONNONNONNONLEFFIN
+NONNONNONNONNONNONNONNONNONNONNON
+
+-------------- Comment 5 ---------------
+Input 4 comes from th
+e pushbutton to stop 
+the system.
+
